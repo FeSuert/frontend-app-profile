@@ -7,7 +7,7 @@ export default function NotFoundPage() {
       <p className="my-0 py-5 text-muted" style={{ maxWidth: '32em' }}>
         <FormattedMessage
           id="profile.notfound.message"
-          defaultMessage="The page you're looking for is unavailable or there's an error in the URL. Please check the URL and try again."
+          defaultMessage="TEST"
           description="error message when a page does not exist"
         />
       </p>
